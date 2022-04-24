@@ -6,6 +6,8 @@ A simple Flash cards portrait ebook
 
 [Preview a Webapp demo](https://flutter-flashcards-portrait-ebook.codemagic.app/) 
 
+[Documentation](https://iwilfried.github.io/Flutter-Flashcards-Portrait-eBook)
+
 or Scan This Qr code to go to the website 
 
 ![frame (10)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94d96c6d-faae-4cd4-b5da-7f55386d4305/Untitled.png)
