@@ -10,7 +10,8 @@ A simple Flash cards portrait ebook
 
 or Scan This Qr code to go to the website 
 
-![frame (10)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94d96c6d-faae-4cd4-b5da-7f55386d4305/Untitled.png)
+![image](https://user-images.githubusercontent.com/42006848/164989828-573ca858-2657-484f-adaa-15e5799b6c76.png)
+
 
 
 [Download the release APK to try out on your android phone](https://install.appcenter.ms/users/momenamiin/apps/flashcard_portrait/distribution_groups/public) 
