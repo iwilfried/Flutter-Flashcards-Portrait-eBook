@@ -1,5 +1,5 @@
 
-# flutter_flashcards_portrait_ebook
+# Flutter-Flashcards-Portrait-eBook
 > Everything you need to know about flashcards portrait ebook
 
 <!-- [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)
