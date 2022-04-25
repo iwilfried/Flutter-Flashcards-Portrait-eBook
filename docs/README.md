@@ -10,8 +10,7 @@
 
 ## Flutter Environment
 
-![SDK](https://user-images.githubusercontent.com/42006848/165138235-301355a7-be05-4400-aa29-5d8013cf538b.png)
-
+![SDK (1)](https://user-images.githubusercontent.com/42006848/165140779-6bc485cf-b635-41d2-96bb-b3ec41632ef3.png)
 
 
 ## Create a Docsify site
