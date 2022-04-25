@@ -10,21 +10,8 @@
 
 ## Flutter Environment
 
-This is a template for a simple but elegant docs site built on _Docsify_ which magically turns your markdown in your `docs` directory into a docs site. 
+![SDK](https://user-images.githubusercontent.com/42006848/165138235-301355a7-be05-4400-aa29-5d8013cf538b.png)
 
-This is a statically-built site - just commit and push and your Github Pages site will re-deploy.
-
-_Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on JavaScript to pull in content from markdown file, within the app shell. This gives a modern progressive web-app experience for instant page loads. But, this **not** SEO-friendly as crawlers don't like to or can't load JavaScript. So use a static site instead if you need to be found on search engines.
-
-If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
-
-<div align="center">
-    <a href="https://michaelcurrin.github.io/docsify-js-tutorial/">
-        <img src="https://img.shields.io/badge/Teach_me-DocsifyJS_tutorial-blue" 
-            alt="DocsifyJS tutorial badge"
-            title="Go to tutorial">
-    </a>
-</div>
 
 
 ## Create a Docsify site
