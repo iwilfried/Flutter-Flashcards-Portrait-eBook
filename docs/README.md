@@ -11,5 +11,12 @@
 
 ## Set up the Android emulator
 
+![screen-01](https://user-images.githubusercontent.com/42006848/165356436-fd42e8d0-3238-49ab-aa18-72b674b77cea.png)
+
+
+> Choosing the virtual device
+
+![screen-02](https://user-images.githubusercontent.com/42006848/165356507-9d0f912d-7dd5-4425-a76e-f6a172a66b31.png)
+
 
 
