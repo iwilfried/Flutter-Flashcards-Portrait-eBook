@@ -1,48 +1,31 @@
-# **Flutter-Flashcards-Portrait-eBook**
+# Demo  
 
-> *Everything you need to know about flashcards portrait ebook*
+I am in <span style="font-family:Papyrus; font-size:8em;">LOVE!</span>
 
-[![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
+This sandbox is a demonstration of the [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/) theme system for [docsify.js](https://docsify.js.org/). 
 
-## **Flutter Environment**
+?> You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
 
-1. To setup the flutter environment we need to install flutter SDK in our machine. 
-    
-    ```bash
-    //Requirements: Powershell v2+
-    //packagemanager Chocolatey
-    $ choco install flutter
-    ```
-    
-2.  Check the installed flutter version and upgrade to the latest one.
-    
-    ```bash
-    $ flutter --version
-    $ flutter upgrade
-    $ flutter doctor
-    ```
-    
-    ![SDK (1)](https://user-images.githubusercontent.com/42006848/165140779-6bc485cf-b635-41d2-96bb-b3ec41632ef3.png)
-    
+## Change Themes
 
-## **Set up the Android emulator**
+Select a [docsify-themeable theme](https://jhildenbiddle.github.io/docsify-themeable/#/themes) and update the `<link>` in `index.html` accordingly.
 
-1. Before jumping into VS code IDE, install android SDK platforms and SDK tools
-Image for reference: 
-    
-    ![screen-01](https://user-images.githubusercontent.com/42006848/165356436-fd42e8d0-3238-49ab-aa18-72b674b77cea.png)
-    
-2. Choosing the virtual device: 
-    
-    ![screen-02](https://user-images.githubusercontent.com/42006848/165356507-9d0f912d-7dd5-4425-a76e-f6a172a66b31.png)
-    
+(See comment #1 in `index.html`)
 
-##Creating flutter app
+## Customize Themes
 
-1. In your VS code editor create flutter app
+Set the [theme properties](http://localhost:3000/#/customization?id=theme) you wish to change in either a `<style>` tag or an external stylesheet. Code blocks can also be styled by adding a [PrismJS theme](https://jhildenbiddle.github.io/docsify-themeable/#/customization?id=prismjs).
 
-![image](https://user-images.githubusercontent.com/42006848/165360529-ab54008c-67ea-4887-8534-c447a5efb956.png)
+(See comment #2 and #3 in `index.html`)
 
-2. After selecting the project location, give your application a name and press `Enter`
+## Configure Options
 
-![image](https://user-images.githubusercontent.com/42006848/165360987-a4228605-6567-4dd7-a11e-57e12180cec3.png)
+Details are available in the [docsify](https://docsify.js.org/#/configuration) and [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/options) documentation.
+
+(See comment #4 and #5 in `index.html`)
+
+## Add Plugins
+
+Details are available in the [docsify plugins](https://docsify.js.org/#/plugins) documentation.
+
+(See comment #6 in `index.html`)
