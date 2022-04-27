@@ -117,3 +117,22 @@ Doctor summary (to see all details, run flutter doctor -v):
 Tadda! Now, you are one step closer to becoming a Flutter developer.  
 
 Good luck in your development journey!
+
+## Create App
+
+1. Inside your VS Code editor, invoke View > Command Palette. Type “flutter”, and select the Flutter: New Project. Then select Application and give it location.
+    
+    ![image](https://user-images.githubusercontent.com/42006848/165591439-950dae60-1984-4fad-b650-e7165fce20a9.png)
+    
+2. After selecting the project location, give your application a name and press `Enter`
+    
+    ![image](https://user-images.githubusercontent.com/42006848/165591559-8f93a641-ac2c-480e-bc0c-9a0b498e49d8.png)
+    
+The above steps create a Flutter project directory that contains a simple demo app.
+
+## VS Code Set-Up
+
+- Install Flutter VS Code extension which adds support for effectively editing, refactoring, running, and reloading Flutter mobile apps. It depends on (and will automatically install) the Dart extension for support for the Dart programming language.
+
+![image](https://user-images.githubusercontent.com/42006848/165592755-f63c8b55-efe5-4093-a9ab-0f719a91e902.png)
+
