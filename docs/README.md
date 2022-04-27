@@ -37,7 +37,7 @@ Image for reference:
     ![screen-02](https://user-images.githubusercontent.com/42006848/165356507-9d0f912d-7dd5-4425-a76e-f6a172a66b31.png)
     
 
-##Creating flutter app
+## **Creating flutter app**
 
 1. In your VS code editor create flutter app
 
