@@ -5,10 +5,11 @@
 ### Commonly used properties
 1. shape
 2. backgroundColor
-3. centerTitle
-4. titleSpacing
-5. shadowColor
-6. title
+3. title
+4. centerTitle
+5. titleSpacing
+6. shadowColor
+
 
 ### Shape
 We will use the shape property to define the shape of the app bar's Material as well as its shadow.
