@@ -11,8 +11,8 @@
 6. shadowColor
 
 
-### Shape
-We will use the shape property to define the shape of the app bar's Material as well as its shadow.
+1. ### Shape
+We will use the shape property to define the shape of the app bar as well as its shadow.
 
 ```dart
 Scaffold(
@@ -29,7 +29,7 @@ Output:
 
 ### backgroundColor
 
-The color of the Material widget that underlies the entire Scaffold.
+This backgroundColor property is used to set the app bar background color.
 
 ```dart
 Scaffold(
@@ -46,11 +46,7 @@ Output:
 
 ### title
 
-The primary widget displayed in the app bar.
-
-Becomes the middle component of the NavigationToolbar built by this widget.
-
-Typically a Text widget that contains a description of the current contents of the app.
+The primary widget displayed in the app bar. Typically a Text widget that contains a description of the current contents of the app.
 
 
 ```dart
@@ -71,7 +67,7 @@ Output:
 
 ### centerTitle
 
-Whether the title should be centered.
+This property takes boolean value whether the title should be centered or not.
 
 If this property is null, then AppBarTheme.centerTitle of ThemeData.appBarTheme is used. If that is also null, then value is adapted to the current TargetPlatform.
 
@@ -111,7 +107,7 @@ Output:
 
 ### shadowColor
 
-The color of the shadow below the app bar.
+Property used to set the color of the shadow below the app bar.
 
 ```dart
 Scaffold(
