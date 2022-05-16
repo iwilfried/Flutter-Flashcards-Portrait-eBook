@@ -1,6 +1,8 @@
 # Demo  
 
-// Font Test: I am in <span style="font-family:Papyrus; font-size:8em;">LOVE!</span>  
+<!---
+I am in <span style="font-family:Papyrus; font-size:8em;">LOVE!</span> 
+-->  
 
 https://iwilfried.github.io/Flutter-Flashcards-Portrait-eBook/  
 
@@ -8,7 +10,7 @@ https://iwilfried.github.io/Flutter-Flashcards-Portrait-eBook/
 
 This sandbox is a demonstration of the [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/) theme system for [docsify.js](https://docsify.js.org/). 
 
-?> You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
+> You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
 
 ## Change Themes
 
